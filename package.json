@@ -6,7 +6,11 @@
   "description": "Generic Manifest V3 browser data extractor. First adapter: AliExpress wishlist to CSV.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wpdy5zmq94-gif/browser-data-extractor.git"
+    "url": "https://github.com/Tectonic-Labs-CH/browser-data-extractor.git"
+  },
+  "homepage": "https://github.com/Tectonic-Labs-CH/browser-data-extractor",
+  "bugs": {
+    "url": "https://github.com/Tectonic-Labs-CH/browser-data-extractor/issues"
   },
   "scripts": {
     "test": "node --test"

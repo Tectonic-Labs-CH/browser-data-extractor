@@ -10,7 +10,7 @@ This project is unofficial and is not affiliated with AliExpress.
 
 ## Install
 
-1. Clone this repository: [https://github.com/wpdy5zmq94-gif/browser-data-extractor](https://github.com/wpdy5zmq94-gif/browser-data-extractor)
+1. Clone this repository: [https://github.com/Tectonic-Labs-CH/browser-data-extractor](https://github.com/Tectonic-Labs-CH/browser-data-extractor)
 2. Open Chrome → Extensions → Developer mode → Load unpacked → select this extension folder (the folder that contains `manifest.json`).
 3. Chrome 114 or newer is required so the content script can load as a module.
 4. Reload the wishlist tab after loading the extension so the content script can attach.

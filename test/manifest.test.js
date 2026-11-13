@@ -15,7 +15,7 @@ test('manifest is a loadable Manifest V3 extension', () => {
   assert.ok(manifest.permissions.includes('downloads'));
   assert.ok(manifest.host_permissions.some((pattern) => pattern.includes('aliexpress.com')));
   assert.deepEqual(manifest.content_scripts[0].matches, manifest.host_permissions);
-  assert.equal(manifest.homepage_url, 'https://github.com/wpdy5zmq94-gif/browser-data-extractor');
+  assert.equal(manifest.homepage_url, 'https://github.com/Tectonic-Labs-CH/browser-data-extractor');
 
   const files = [
     manifest.action.default_popup,
