@@ -3,7 +3,7 @@
   "name": "Browser Data Extractor",
   "version": "1.0.0",
   "description": "Extract data from a page you already have open. Includes an AliExpress wishlist to CSV adapter.",
-  "homepage_url": "https://github.com/wpdy5zmq94-gif/browser-data-extractor",
+  "homepage_url": "https://github.com/Tectonic-Labs-CH/browser-data-extractor",
   "minimum_chrome_version": "114",
   "permissions": ["storage", "downloads", "activeTab"],
   "host_permissions": [
